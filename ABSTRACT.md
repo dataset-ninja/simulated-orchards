@@ -69,4 +69,8 @@ The algorithm initiates by computing an instance segmentation mask. This process
 
 <span style="font-size: smaller; font-style: italic;">Process of calculating bounding boxes. (a) RGB image from the virtual camera. (b) instance segmentation mask created using back-projection. (c) bounding boxes (overlayed on original RGB image) calculated by finding the minimum and maximum x-coordinate and y-coordinate for every instance.</span>
 
-Also, you can check __Mini-Orchards Dataset__ [(available on DatasetNinja)](https://datasetninja.com/mini-orchards) for a more thorough understanding.
+## Real-world datasets
+
+A real-world dataset was used to evaluate and compare the performance of models trained on simulated data.
+
+You can check __Mini-Orchards Dataset__ [(available on DatasetNinja)](https://datasetninja.com/mini-orchards) for a more thorough understanding.
