@@ -67,7 +67,7 @@ The algorithm initiates by computing an instance segmentation mask. This process
 
 <img src="https://github.com/dataset-ninja/simulated-orchards/assets/123257559/8561386d-4c26-421d-9941-ae217ad6c717" alt="image" width="800">
 
-<span style="font-size: smaller; font-style: italic;">Process of calculating bounding boxes. (a) RGB image from the virtual camera. (b) instance segmentation mask created using back-projection. (c) bounding boxes (overlayed on original RGB image) calculated by finding the minimum and maximum x-coordinate and y-coordinate for every instance.</span>
+<span style="font-size: smaller; font-style: italic;">Process of calculating bounding boxes. a: RGB image from the virtual camera. b: instance segmentation mask created using back-projection. c: bounding boxes (overlayed on original RGB image) calculated by finding the minimum and maximum x-coordinate and y-coordinate for every instance.</span>
 
 ## Real-world datasets
 
