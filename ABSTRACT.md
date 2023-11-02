@@ -8,7 +8,7 @@ To generate realistic data, a simulator that mimics an apple orchard is needed. 
 
 To simulate the ‘orchard’ component, authors' simulator uses a 2D plane with an image of a real-world orchard projected on it. This strategy allows to simulate a representative orchard without the need for a true-to-life 3D reconstruction of an orchard, which would take a considerably larger amount of time and effort to realise. 
 
-<img src="https://github.com/dataset-ninja/simulated-orchards/assets/123257559/24ab828e-7582-41b6-b0fb-66e2977f1cfa" alt="image" width="800">
+<img src="https://github.com/dataset-ninja/simulated-orchards/assets/123257559/24ab828e-7582-41b6-b0fb-66e2977f1cfa" alt="image" width="500">
 
 <span style="font-size: smaller; font-style: italic;">Simulated apple orchard with 2D plane with projected image and 3D textured apple models.</span>
 
