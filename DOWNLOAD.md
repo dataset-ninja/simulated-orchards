@@ -1,6 +1,6 @@
 Dataset **Simulated-Orchards** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/B/T/8A/3xTD9WfPkeqSBp39mhaDOsqOqjQO5ZKDNgfI9JpwpJb3mX9nFjQNpuQ00c0iFn2JG8ifqFi1vhJoCxIcVrwwcRgCmg0WfbqdYdTwp4qzErTMgmIuqYJsmnWtjfBF.tar)
+ [Download](https://www.dropbox.com/scl/fi/7dzwzde0sqvu1fdel93ie/simulated-orchards-DatasetNinja.tar?rlkey=qz70h6p4r8mzqxkao3hf3cye2&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
